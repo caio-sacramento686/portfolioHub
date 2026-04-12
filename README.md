@@ -47,11 +47,11 @@
 
   <section id="recomendacoes">
     <h2>Recomendações</h2>
-    <p>"Ótimo aluno..." - Professor X</p>
+    <p>"Ótimo profissional, esforçado e muito dedicado" - Renato(Gerente Smart fit) X</p>
   </section>
 
   <footer>
-    <p>© 2026 - Seu Nome</p>
+    <p>© 2026 - Caio Sacramento Côrtes </p>
   </footer>
 
 </body>
