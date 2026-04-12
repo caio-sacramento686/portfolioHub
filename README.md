@@ -9,7 +9,7 @@
 
   <header>
     <h1>Caio Sacramento Côrtes</h1>
-    <p>Estudante de [Curso] | Desenvolvedor</p>
+    <p>Estudante de [Análise e Desenvolvimento De sistemas]</p>
   </header>
 
   <section id="perfil">
