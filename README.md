@@ -27,7 +27,8 @@
     </section>
 
     <section id="curriculo">
-        <h2>Currículo</h2>
+        <h2>![WhatsApp Image 2026-04-12 at 15 08 40](https://github.com/user-attachments/assets/e3c3bd27-c26e-46c6-8602-5875272adfc3)
+</h2>
         <div class="item">
             <h3>Formação Acadêmica</h3>
             <p>Tecnólogo em [Análise e desenvolvimento de sistemas] - Universidade [Centro Universitário de Brasília] (202X - 202X)</p>
@@ -39,9 +40,10 @@
     </section>
 
     <section id="projetos">
-        <h2>Não possuo projetos ainda mas tenho planos futuros</h2>
+        <h2>![WhatsApp Image 2026-04-12 at 15 09 40](https://github.com/user-attachments/assets/cefc220a-06ed-4290-933d-2543299a6957)
+</h2>
         <div class="project-card">
-            <h3>...</h3>
+            <h3>Não possuo projetos em prática ainda, mas tenho projetos futuros.</h3>
             <p>Descrição técnica: "Site jurídico..."</p>
             <a href="...">Ver no GitHub</a>
         </div>
@@ -59,8 +61,9 @@ Organização pessoal.
         </div>
     </section>
 
-    <section id="recomendacoes">
-        <h2>Recomendações</h2>
+    <section id="recomendações">
+        <h2>![WhatsApp Image 2026-04-12 at 15 13 23](https://github.com/user-attachments/assets/1833069e-d771-4629-99b7-6a93f41086e6)
+</h2>
         <blockquote>"Profissional dedicado,com excelente visão analítica e comportamento impecável." - Renato (Chefe da empresa), Smart fit.</blockquote>
     </section>
 </body>
