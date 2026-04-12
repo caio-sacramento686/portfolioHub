@@ -22,7 +22,7 @@
 " alt="![WhatsApp Image 2026-04-12 at 11 33 07](https://github.com/user-attachments/assets/3eec9269-d4a7-4808-83f4-4209bb2cc065)
 " class="profile-img">
         <h2>Caio Sacramento Côrtes</h2>
-        <p>Breve biografia: "Me chamo Caio, sou estudante de [Análise e desenvolvimento de sistemas]. Tenho 21 anos e sou nascido no Rio de Janeiro"</p>
+        <p>Breve biografia: "Me chamo Caio, sou estudante de Análise e desenvolvimento de sistemas. Tenho 21 anos e sou nascido no Rio de Janeiro"</p>
         <p>Email: caiosacramentocortes@gmail.com | <a href="#">www.linkedin.com/in/caio-cortes</a> | <a href="#">GitHub</a></p>
     </section>
 
@@ -31,11 +31,11 @@
 </h2>
         <div class="item">
             <h3>Formação Acadêmica</h3>
-            <p>Tecnólogo em [Análise e desenvolvimento de sistemas] - Universidade [Centro Universitário de Brasília] (202X - 202X)</p>
+            <p>Tecnólogo em Análise e desenvolvimento de sistemas - Universidade Centro Universitário de Brasília</p>
         </div>
         <div class="item">
             <h3>Experiência Profissional</h3>
-            <p>Trabalho na empresa [Smart fit] - Atuando na área da [Recepção]</p>
+            <p>Trabalho na empresa Smart fit - Atuando na área da Recepção</p>
         </div>
     </section>
 
@@ -44,7 +44,7 @@
 </h2>
         <div class="project-card">
             <h3>Não possuo projetos em prática ainda, mas tenho projetos futuros.</h3>
-            <p>Descrição técnica: "Site jurídico..."</p>
+            <p>Descrição técnica: "Site jurídico."</p>
             <a href="...">Ver no GitHub</a>
         </div>
     </section>
