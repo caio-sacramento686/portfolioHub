@@ -22,7 +22,7 @@
 " alt="![WhatsApp Image 2026-04-12 at 11 33 07](https://github.com/user-attachments/assets/3eec9269-d4a7-4808-83f4-4209bb2cc065)
 " class="profile-img">
         <h2>Caio Sacramento Côrtes</h2>
-        <p>Breve biografia: "Me chsmo Caio, sou estudante de [Análise e desenvolvimento de sistemas]. Tenho 21 anos e sou nascido no Rio de Janeiro"</p>
+        <p>Breve biografia: "Me chamo Caio, sou estudante de [Análise e desenvolvimento de sistemas]. Tenho 21 anos e sou nascido no Rio de Janeiro"</p>
         <p>Email: caiosacramentocortes@gmail.com | <a href="#">www.linkedin.com/in/caio-cortes</a> | <a href="#">GitHub</a></p>
     </section>
 
