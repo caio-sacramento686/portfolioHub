@@ -14,8 +14,8 @@
 
   <section id="perfil">
     <h2>Perfil Pessoal</h2>
-    <img src="assets/foto.jpg" width="150">
-    <p>Breve biografia sobre você...</p>
+    <img src="" width="150">
+    <p>Me chamo Caio, tenho 21 anos, nascido no Rio de Janeiro e sou um futuro programador.</p>
     <p>Email:caiosacramentocortes@gmail.com</p>
     <p>LinkedIn: linkedin.com/in/caiosacramento</p>
   </section>
