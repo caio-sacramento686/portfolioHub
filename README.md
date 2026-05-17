@@ -33,8 +33,8 @@
   <section id="projetos">
     <h2>Projetos</h2>
     <div>
-      <h3>Site autônomo</h3>
-      <p>Não está em prática ainda, mas será um sistema autônomo que não facilitará apenas advogados mas também donos de empresas.</p>
+      <h3>Sistema de automação</h3>
+      <p>Não está em prática ainda, mas será um sistema autônomo que não facilitará a vida de muitos empresários.</p>
       <a href="#">...</a>
     </div>
   </section>
