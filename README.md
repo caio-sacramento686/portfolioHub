@@ -33,8 +33,8 @@
   <section id="projetos">
     <h2>Projetos</h2>
     <div>
-      <h3>Site de apoio judiciário</h3>
-      <p>Não está em prática ainda, mas será para apoiar os advogados</p>
+      <h3>Site autônomo</h3>
+      <p>Não está em prática ainda, mas será um sistema autônomo que não facilitará apenas advogados mas também donos de empresas.</p>
       <a href="#">...</a>
     </div>
   </section>
@@ -47,7 +47,7 @@
 
   <section id="recomendacoes">
     <h2>Recomendações</h2>
-    <p>"Ótimo profissional, esforçado e muito dedicado" - Renato(Gerente Smart fit) X</p>
+    <p>"Ótimo profissional, esforçado e muito dedicado" - Renato(Gerente Smart fit).</p>
   </section>
 
   <footer>
